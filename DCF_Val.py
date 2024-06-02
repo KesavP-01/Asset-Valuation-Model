@@ -90,4 +90,4 @@ def DCF(ticker, nyears):
                          'Implied_Share_Price' : ImpliedSharePrice}, index = [ticker])
 
 
-stock = DCF('MCD', 5)
+stock = DCF('NVDA', 10)
